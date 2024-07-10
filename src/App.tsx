@@ -29,6 +29,11 @@ function App() {
     setCurrentIndex(currentIndex - 1)
   }
 
+  const handleNext = () => {
+    if (currentIndex >= numberOfAliens - 1) return
+    setCurrentIndex(currentIndex + 1)
+  }
+
   return (
     <>
       <button onClick={handlePrev}>Prev</button>
