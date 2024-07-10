@@ -21,6 +21,21 @@ body {
 }
 
 .canvas-container {
-  width: 400px;
-  height: 400px;
+  width: 100vw;
+  height: 100vh;
+}
+
+button {
+  padding: 1em;
+  cursor: pointer;
+  position: fixed;
+  top: 50%;
+}
+
+button.left {
+  left: 3em
+}
+
+button.right {
+  right: 3em
 }

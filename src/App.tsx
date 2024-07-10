@@ -2,6 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import Canvascomponent from "./wrappers/CanvasComponent";
 import { shuffleArray } from "./functions";
+import { Model } from "./models/Model";
 
 function App() {
 
@@ -36,9 +37,13 @@ function App() {
 
   return (
     <>
-      <button onClick={handlePrev}>Prev</button>
-      <div className="canvas-container"></div>
-      <button onClick={handleNext}>Next</button>
+      <button className="left" onClick={handlePrev}>Prev</button>
+      <div className="canvas-container">
+        <Canvascomponent>
+          <Model num={nums[currentIndex]} />
+        </Canvascomponent>
+      </div>
+      <button className="right" onClick={handleNext}>Next</button>
     </>
   );
 }
