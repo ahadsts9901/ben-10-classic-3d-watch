@@ -24,10 +24,13 @@ function App() {
 
   }, []);
 
+  const 
+
   return (
     <>
-      <div className="canvas-container">
-      </div>
+      <button onClick={handlePrev}>Prev</button>
+      <div className="canvas-container"></div>
+      <button onClick={handleNext}>Next</button>
     </>
   );
 }
