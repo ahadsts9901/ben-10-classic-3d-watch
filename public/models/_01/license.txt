@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classic Ben 10 - XLR8
+* source:	https://sketchfab.com/3d-models/classic-ben-10-xlr8-c4227db3b14343e7b04822112854b0e3
+* author:	Kabiidev (https://sketchfab.com/Kabiidev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classic Ben 10 - XLR8" (https://sketchfab.com/3d-models/classic-ben-10-xlr8-c4227db3b14343e7b04822112854b0e3) by Kabiidev (https://sketchfab.com/Kabiidev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
