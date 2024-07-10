@@ -24,7 +24,10 @@ function App() {
 
   }, []);
 
-  const 
+  const handlePrev = () => {
+    if (!currentIndex || currentIndex < 1) return
+    setCurrentIndex(currentIndex - 1)
+  }
 
   return (
     <>
