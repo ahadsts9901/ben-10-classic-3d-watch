@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fourarm-Ben10 Classic
+* source:	https://sketchfab.com/3d-models/fourarm-ben10-classic-e1754d45b31448bfbadd034dac824dbd
+* author:	KaiHo (https://sketchfab.com/zhezheho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fourarm-Ben10 Classic" (https://sketchfab.com/3d-models/fourarm-ben10-classic-e1754d45b31448bfbadd034dac824dbd) by KaiHo (https://sketchfab.com/zhezheho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
