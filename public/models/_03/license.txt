@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heatblast
+* source:	https://sketchfab.com/3d-models/heatblast-820a15e5fdfc4b62a64208d2338af33c
+* author:	zakariya6878 (https://sketchfab.com/zakariya6878)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heatblast" (https://sketchfab.com/3d-models/heatblast-820a15e5fdfc4b62a64208d2338af33c) by zakariya6878 (https://sketchfab.com/zakariya6878) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
