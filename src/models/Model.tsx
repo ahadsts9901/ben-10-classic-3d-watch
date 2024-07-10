@@ -1,12 +1,8 @@
 import { useGLTF } from "@react-three/drei";
 
-export const Model = () => {
+export const Model = ({ num }: any) => {
 
-  const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-  const num = ""
-
-  const model = useGLTF(`./${num}/scene.gltf`);
+  const model = useGLTF(`./_${num}/scene.gltf`);
 
   return (
     <mesh>
